@@ -15,7 +15,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'mysql2', '>= 0.3.13', '< 0.5'
 gem 'pg'
-gem 'uglifier', '>= 1.3.0'
+
 gem 'whenever', '~> 0.9.4', require: false
 gem 'unidecoder'
 gem 'bcrypt'
